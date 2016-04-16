@@ -12,7 +12,7 @@ public class ConnectionMamager {
     PreparedStatement pstmt=null ;
     ResultSet rs= null;
 
-//  ª`·N.¤£»İ­n¼gClass.forName("com.mysql.jdbc.Driver")³o¬q
+//  æ³¨æ„.ä¸éœ€è¦å¯«Class.forName("com.mysql.jdbc.Driver")é€™æ®µ
 //  try {
 //          Class.forName("org.mariadb.jdbc.Driver");
 //  } catch (ClassNotFoundException e) {

@@ -1,5 +1,5 @@
 /**
- * ConnectionMamager >> ·s¼WMariaDB³s½u³]©w 
+ * ConnectionMamager >> æ–°å¢žMariaDBé€£ç·šè¨­å®š 
  */
 /**
  * @author Ellen,Abbey
