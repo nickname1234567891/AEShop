@@ -8,6 +8,7 @@ import java.sql.SQLException;
 
 public class ConnectionMamager {
 	
+	public static void main(String args[]){
     Connection conn=null;
     PreparedStatement pstmt=null ;
     ResultSet rs= null;
